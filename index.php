@@ -11,7 +11,7 @@
     <div>
         <h1 class="topic">Get In Touch With Praisebuka</h1>
         <p class="words">Please fill in these fields correctly</p>
-        <form action="contact.html" method="post">
+        <form action="contact.php" method="post">
             <input type="text" name="name" placeholder="Fullname">
             <input type="text" name="email" placeholder="E-mail">
             <input type="text" name="subject" placeholder="Subject">
