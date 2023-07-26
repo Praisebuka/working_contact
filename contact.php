@@ -11,7 +11,6 @@ if (isset($_POST['submit'])){
     $myMail = "Praisebuka@poton.me";
     $header = "From: " . $email;
     $message2 = "Here is a new message from " . $name . " with the email of ". $email . ".\n\n" . $message;
-
     
     //Writing the functions for where the above details should go
     //such as.....The email am sending to
