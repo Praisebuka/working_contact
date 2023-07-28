@@ -19,5 +19,6 @@
             <button type="submit" name="submit">Send Details</button>
         </form>
     </div>
+    
 </body>
 </html>
