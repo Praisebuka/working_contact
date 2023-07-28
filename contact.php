@@ -1,9 +1,3 @@
-
-
-
-
-
-
         <?Php 
         //creating the variables for the contact
 if (isset($_POST['submit'])){
